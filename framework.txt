@@ -1,0 +1,30 @@
+# Основные библиотеки для аугментации
+albumentations
+opencv-python
+opencv-python-headless
+
+# Библиотеки для машинного обучения и нейросетей
+torch
+torchvision
+ultralytics  # YOLOv8
+tensorflow
+keras
+
+# Библиотеки для работы с изображениями
+Pillow
+imageio
+scikit-image
+
+# Библиотеки для работы с данными
+numpy
+pandas
+matplotlib
+seaborn
+
+# Библиотеки для работы с JSON, YAML, API
+pyyaml
+json5
+
+# Дополнительные инструменты
+tqdm
+rich
